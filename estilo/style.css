@@ -60,7 +60,7 @@ header > p {
     font-family: var(--fonte-padrao);
     color: white;
     max-width: 500px;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     margin: auto;
     padding: 0 10px 15px 10px;
     text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.418);
